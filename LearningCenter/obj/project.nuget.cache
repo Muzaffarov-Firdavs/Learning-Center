@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uRl8vEFhGNUW8rVEHLTpNeeTAmFck+MheUbLglg0sKyUQbanV+fkn/hpTp3Bc4TVrP2muZqfnFM5HNxQYB/5+g==",
+  "success": true,
+  "projectFilePath": "D:\\net\\LearningCenter\\LearningCenter\\LearningCenter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Firdavs\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
